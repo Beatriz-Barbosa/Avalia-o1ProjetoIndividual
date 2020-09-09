@@ -1,0 +1,17 @@
+Por favor, levar em consideração somente o "TestandoVisu"! Os outros arquivos são apenas testes meus, não sendo a versão final!
+Não tirei pois achei que seria interessante mostra-los (e também porque deu um erro quando tirei 1 deles daí fiquei com medo de não funcionar aí caso eu upasse sem)
+
+
+Referencias:
+
+Como pegar RAM do pc:
+https://www.guj.com.br/t/como-pegar-quantidade-de-memoria-ram-do-pc/131149/4
+
+Como usar % numa string:
+https://qastack.com.br/programming/3695230/how-to-use-java-string-format-in-scala
+
+Como fazer uma barra de progresso:
+https://www.youtube.com/watch?v=3KZuB56ycyo
+
+Como mudar a cor da barra de progresso:
+https://stackoverflow.com/questions/11802887/nimbus-lf-change-background-color-of-progress-bar
